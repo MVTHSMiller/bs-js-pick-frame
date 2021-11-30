@@ -1,0 +1,11 @@
+.gold-frame {
+    border-width:10px;
+    border-color: rgb(238,192,123);
+    border-style: groove;
+}
+
+.black-frame {
+    border-width:10px;
+    border-color: black;
+    border-style: solid;    
+}
